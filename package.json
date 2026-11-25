@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Deryx E. Scott <deryxescott@gmail.com>",
   "dependencies": {
-    "gatsby": "^5.10.0",
+    "gatsby": "^5.16.1",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-anchor-links": "^1.2.1",
     "gatsby-plugin-image": "^3.13.1",
@@ -42,5 +42,8 @@
   },
   "bugs": {
     "url": "https://github.com/Deryx/portfolio-gatsby/issues"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
